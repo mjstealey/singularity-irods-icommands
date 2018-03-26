@@ -1,7 +1,7 @@
 # Singularity iRODS: iCommands
 
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/812)
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 
 Singularity image for [iRODS iCommands](https://docs.irods.org/4.2.2/system_overview/glossary/#icommands).
 
