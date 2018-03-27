@@ -18,9 +18,10 @@ MirrorURL: http://us.archive.ubuntu.com/ubuntu/
     --irods_home String
 
 %setup
+  mkdir -p ${SINGULARITY_ROOTFS}/code
 
 %files
-  ./ /code
+  iinit.sh /code/iinit.sh
 
 %labels
   Maintainer Michael J. Stealey
